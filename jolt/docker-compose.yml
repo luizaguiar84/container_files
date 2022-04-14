@@ -1,0 +1,6 @@
+version: "3"
+services:
+  jolt:
+    image: "luizaguiar84/jolt:latest"
+    ports:
+      - "8001:80"
